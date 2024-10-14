@@ -3,8 +3,8 @@ package ATM;
 //import required classes and packages
 import java.util.Scanner;
 
-//create ATMExample class to implement the ATM functionality
-public class ATMExample
+//create ATM machine class to implement the ATM functionality
+public class ATMachine
 {
     //main method starts
     public static void main(String args[] )
